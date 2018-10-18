@@ -1,6 +1,6 @@
 # awesome-nih-cloud-resources
 
-List of cloud-based resouces (and the people developing these methods) at the NIH.    
+List of cloud-based resouces (and the ICs developing these methods) at the NIH.    
 [Contributions welcome...](https://github.com/stevetsa/awesome-nih-cloud-resources/blob/master/CONTRIBUTE.md)
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
