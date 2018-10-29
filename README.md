@@ -1,6 +1,6 @@
 # awesome-nih-cloud-and-data-science-resources
 
-List of cloud-based resouces (and the ICs developing these methods) at the NIH.    
+List of cloud-based and other data science/big data resouces (and the ICs developing these methods) at the NIH.    
 [Contributions welcome...](https://github.com/stevetsa/awesome-nih-cloud-resources/blob/master/CONTRIBUTE.md)
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
@@ -26,6 +26,8 @@ NCI has created components — the Genomic Data Commons (GDC) and the NCI Cloud 
 [NIAID Data Hub](https://niaid.bionimbus.org/login) - [NIAID] - The website combines government datasets from 3 divisions of NIAID to create clean, easy to navigate visualizations for data-driven discovery within Allergy and Infectious Diseases.  
 
 [New Modesl of Data Stewardship](https://commonfund.nih.gov/data) - [OD] - The New Models of Data Stewardship (NMDS) program is designed to enhance biomedical discovery and improve efficiency through new digital data management strategies. These strategies contribute to NIH efforts to develop and sustain a modern biomedical data ecosystem as described in the [NIH Strategic Plan for Data Science](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf). They also aim to make data for research findable, accessible, interoperable, and reusable (FAIR) in the cloud. The New Models of Data Stewardship program began in fiscal year 2017 and will run through fiscal year 2020. It consists of two initiatives, the Data Commons Pilot Phase and the Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES) initiative, working together to establish best practices, standards, and infrastructure to address the challenges above.
+
+[NICHD Placental Atlas Tool](https://pat.nichd.nih.gov) - [NICHD] - NICHD recently launched the Placental Atlas Tool, or PAT, a free resource incorporating placental data from publications and public databases into a single website for the research community. PAT, which is accessible on desktop, tablet, and mobile devices, is a reference tool for studying placental development and function throughout pregnancy.  Investigators from all backgrounds can use PAT to generate new ideas and build models. You can perform differential gene expression analysis and gene set enrichment, as well as visualization of heat maps, pathways, and networks for hypothesis generation or testing.
 
 [NIH Data Commons Pilot Phase](https://commonfund.nih.gov/commons) - [OD] - 
 The overarching goal of the NIH Data Commons is to accelerate new biomedical discoveries by developing and testing a cloud-based platform where investigators can store, share, access, and interact with digital objects (data, software, etc.) generated from biomedical and behavioral research. By connecting the digital objects and making them accessible, the Data Commons is intended to allow novel scientific research that was not possible before, including hypothesis generation, discovery, and validation.  
