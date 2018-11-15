@@ -5,7 +5,7 @@ List of cloud-based and other data science/big data resouces (and the ICs develo
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
 
-## Repositories
+## Lists of Repositories
 
 [NIH Data Sharing Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html) - [NIH] - This table lists NIH-supported data repositories that make data accessible for reuse. Most accept submissions of appropriate data from NIH-funded investigators (and others), but some restrict data submission to only those researchers involved in a specific research network. Also included are resources that serve as a portal for information about biomedical data and information sharing systems. The table can be sorted by repository name and by NIH Institute or Center and may be searched using keywords so that you can find repositories more relevant to your data. Links are provided to information about submitting data to and accessing data from the listed repositories. Also, we have asked all repositories to indicate whether or not they have— current NIH funding support; open data submission; open data access; open time frame for data submission; and sustained support. Their Yes or No responses are included in the five columns to the right of the table. In our query to the repositories, we acknowledged that some repositories may have restrictions or limitations on data submission and requirements for data access. Additional information about the repositories and points-of-contact for further information or inquiries can be found on the websites or links shown for each.
 
